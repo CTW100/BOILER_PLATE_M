@@ -24,3 +24,5 @@ git add .
 git commit -m "Commit for Change the Name of the Branch"
 
 깃허브 CLI
+
+git push
